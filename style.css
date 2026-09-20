@@ -12,6 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: hsl(212, 45%, 89%);
 }
 
 .card {
@@ -20,6 +21,7 @@ body {
   border: 5px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0 0 0 / 30%);
+  background-color: white;
 }
 
 .image {
